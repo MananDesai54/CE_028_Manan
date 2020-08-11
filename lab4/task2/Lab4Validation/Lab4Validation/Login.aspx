@@ -21,6 +21,7 @@
             <br />
             <asp:Label ID="error" runat="server" ForeColor="Red"></asp:Label>
             <br />
+            <asp:Button ID="Button1" runat="server" Text="Button" />
             <br />
             <asp:Button ID="Button" runat="server" OnClick="Button_Click" Text="Login" />
             <br />
